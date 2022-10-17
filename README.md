@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matson-Mathew
-- 👀 I’m interested in programming
+- 👀 I’m interested in learning new tech.
 - 🌱 I’m currently learning Java/SpringBoot/Angular
 - 💞️ I’m looking to collaborate on anything that add value
 - 📫 How to reach me : https://www.linkedin.com/in/matson-mathew/
